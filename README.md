@@ -30,17 +30,17 @@ In this paper, only crowd labels are used for proposing the label aggregation me
 
 If you use this dataset, please cite the following papers.  
 
-	@INPROCEEDINGS{CrowdLLMLabel,
-    author={Li, Jiyi},
-    booktitle={ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
-    title={A Comparative Study on Annotation Quality of Crowdsourcing and LLm Via Label Aggregation}, 
-    year={2024},
-    volume={},
-    number={},
-    pages={6525-6529},
-    keywords={Crowdsourcing;Annotations;Quality control;Benchmark testing;Signal processing;Chatbots;Reliability;Crowdsourcing;Label Aggregation;Large Language Model},
-    doi={10.1109/ICASSP48485.2024.10447803}
-  }
+	@inproceedings{CrowdLLMLabel,
+		author={Li, Jiyi},
+		booktitle={ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
+		title={A Comparative Study on Annotation Quality of Crowdsourcing and LLm Via Label Aggregation}, 
+		year={2024},
+		volume={},
+		number={},
+		pages={6525-6529},
+		keywords={Crowdsourcing;Annotations;Quality control;Benchmark testing;Signal processing;Chatbots;Reliability;Crowdsourcing;Label Aggregation;Large Language Model},
+		doi={10.1109/ICASSP48485.2024.10447803}
+	}
 
 	@inproceedings{HyperQuestion,
 		author = {Li, Jiyi and Baba, Yukino and Kashima, Hisashi},
