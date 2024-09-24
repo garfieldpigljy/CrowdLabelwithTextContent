@@ -1,6 +1,8 @@
 ## CrowdLabelwithTextContent
 The datasets of Crowd Labels with Text Contents of instances available. 
 
+**We have just uploaded the QUIZ datasets, the auxiliary documentations and the RTE dataset are under construction.**
+
 Datasets used for our following papers: 
 
 In this paper, the text contents are used by LLM to generate the labels. 
@@ -14,17 +16,17 @@ In this paper, only crowd labels are used for proposing the label aggregation me
 
 
 ## Descriptions of Questions
-- CHINESE: the meaning of Chinese vocabularies. 
+- Chinese (CHI): the meaning of Chinese vocabularies. 
 
-- ENGLISH: the most analogically similar word pair to a word pair.
+- English (ENG): the most analogically similar word pair to a word pair.
 
-- ITMANAGE: the basic knowledge of information technology.
+- Information Technology (ITM, ITMANAGE): the basic knowledge of information technology.
 
-- MEDICINE: about medicine efficacy and side effects. 
+- Medicine (MED): about medicine efficacy and side effects. 
 
-- POKEMON: the Japanese name of a Pokemon with English name. 
+- Pokemon (POK): the Japanese name of a Pokemon with English name. 
 
-- SCIENCE: intermediate knowledge of chemistry and physics. 
+- Science (SCI): intermediate knowledge of chemistry and physics. 
 
 ## Citation
 
