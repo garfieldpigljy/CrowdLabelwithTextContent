@@ -1,0 +1,31 @@
+question_id,question,A,B,C,D,E,truth
+1,REPELLENT ：ATTRACT, elastic ：stretch , sensitive ：cooperate , progressive ：change , flammable ：ignite , ephemeral ：endure  ,E
+2,ANARCHIST ：GOVERNMENT, legislator ：taxation , reformer ：bureaucracy , jurist ：law , suffragist ：voting, abolitionist ：slavery ,A
+3,ADMONISH ：DENOUNCE, challenge ：overcome, reward ：praise, control ：contain , persuade ：convince, punish ：pillory ,D
+4,JOKE ：PUNCH LINE, sermon ：congregation, conceit ：allegory, rhetoric ：persuasion, conspiracy ：arrest, plot ：denouement,E
+6,REPROBATE ：MISBEHAVE, sycophant ：fawn, critic ：rebuke, ruffian ：tease, cynic ：brood, narcissist ：covert,A
+7,IMPERVIOUS ：PENETRATE, ineluctable ：avoid, ineradicable ：damage, boorish ：flatter, irrepressible ：censure, disruptive ：restrain,A
+8,CONSENSUS ： FACTIONALISM, ritual ：orthodoxy, reality ：plausibility, reason ：thought, clarity ：confusion, leadership ：subordination,D
+11,CONSTRUCT ：REMODEL, exhibit ：perform, compose ：edit, demolish ：repair, quantify ：estimate, predict ：assess,B
+13,ILLUSTRATE ：PICTURES, particularize ：details, abridge ：texts, parse ：sentences, regularize ：inconsistencies, economize ：words,A
+16,ABRADED ：FRICTION, refined ：combustion, attenuated ：coagulation, diluted ：immersion, strengthened ：compression, desiccated ：dehydration,E
+19,FATIGUE ：REST, gravity ：weight, friction ：heat, dehydration ：water, dizziness ：vertigo, radiation ：light,C
+21,DICTIONARY ：ALPHABETICAL, map ：contoured, diary ：anecdotal, outline ：detailed, narrative ：prosaic, annals ：chronological,E
+22,ATTENUATE ：THICKNESS, separate ：substance, ventilate ：circulation, vaccinate ：immunity, relocate ：site, debilitate ：strength,E
+23,SATIRE ：RIDICULE, oration ：enmity, lullaby ：dream, parody ：praise, elegy ：sorrow, sonnet ：remembrance,D
+24,STOIC ：PERTURB, perplexed ：enlighten, nondescript ：neglect, tranquil ：pacify, avaricious ：satisfy, daunting ：bewilder,D
+25,EXCULPATORY ：ABSOLVE, motivational ：stir, conventional ：resist, rhetorical ：speak, pedantic ：learn, ponderous ：choose,A
+28,CAIASTRGPHE ：MISHAP, prediction ：recollection, contest ：recognition, humiliation ：embarrassment, reconciliation ：solution, hurdle ：challenge,C
+33,ABSTEMIOUS ：INDULGE, affectionate ：embrace, austere ：decorate, articulate ：preach , argumentative ：harangue , affable ：jest ,B
+34,BLUSTERING ：SPEAK, grimacing ：smile, blinking ：stare, slouching ：sit, jeering ：laugh, swaggering ：walk,E
+36,INDELIBLE ：FORGET, lucid ：comprehend, astounding ：expect, inconsequential ：reduce, incorrigible ：agree, fearsome ：avoid,B
+40,FANG ：TOOTH, gum ：mouth, elbow ：arm, bank ：river, finger ：digit, summit ：mountain,D
+41,ANALGESIC ：PAIN, sedative ：sleep, stimulant ：mood, antiseptic ：odor, anesthetic ：sensation, ointment ：skin,D
+44,EMBARRASS ：SHAME, coax ：reluctance, sleep ：fatigue, doubt ：uncertainty, belittle ：condescension, console ：comfort,E
+45,ETCH ：CORROSIVE, shrink ：diminutive, destroy ：worthless, glue ：adhesive, sculpt ：malleable, polish ：glossy,C
+47,DISLIKE ：LOATHING, appreciation ：gratification, hunger ：appetite, void ：dearth, pleasure ：bliss, pain ：ache,D
+49,FILLY ：HORSE, antennae ：butterfly, pullet ：chicken, gaggle ：goose, duck ：drake, wasp ：bee,B
+52,POSTURER ：UNAFFECTED, brat ：insolent, hypocrite ：perceptive, grouch ：respected, bigot ：tolerant, rogue ：empathetic,D
+56,AMBIGUOUS ：UNDERSTAND, veracious ：defend, blatant ：ignore, prosaic ：classify, arcane ：conceal, plausible ：believe,B
+58,PRISTINE ：DECAY, adequate ：imprecision, stable ：fluctuation, volatile ：force, symmetric ：flaw, valid ：exception ,B
+59,DIGRESS ：EXCURSIVE, improvise ：studied, reiterate ：redundant, excise ：prolix, refute ：plausible, accede ：contentious,B
