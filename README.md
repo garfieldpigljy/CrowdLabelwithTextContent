@@ -1,7 +1,7 @@
 ## CrowdLabelwithTextContent
 The datasets of Crowd Labels with Text Contents of instances available. 
 
-**We have just uploaded the QUIZ datasets, the auxiliary documentations and the RTE dataset are under construction.**
+**We have just uploaded the QUIZ datasets, the documentations, source codes for data processing and the RTE dataset are under construction.**
 
 Datasets used for our following papers: 
 
